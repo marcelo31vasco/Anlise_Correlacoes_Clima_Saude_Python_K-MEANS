@@ -28,4 +28,4 @@ As mudanças climáticas não afetam igualmente todas as regiões, e a compreens
 
 ## Acesso ao Projeto
 
-Para visualizar todos os gráficos e análises desenvolvidas neste projeto, acesse o seguinte link do Google Colab: [Google Colab]([https://colab.research.google.com/drive/1IDuPhf_m0AdSYGHBy5SQEneN1wZAJ3rP?usp=sharing](https://github.com/marcelo31vasco/Anlise_Correlacoes_Clima_Saude_Python_K-MEANS/blob/main/pf_mineracao_de_dados.ipynb)) (OBS: Fazer login com o email acadêmico).
+Para visualizar todos os gráficos e análises desenvolvidas neste projeto, acesse o seguinte link: https://github.com/marcelo31vasco/Anlise_Correlacoes_Clima_Saude_Python_K-MEANS/blob/main/pf_mineracao_de_dados.ipynb 
